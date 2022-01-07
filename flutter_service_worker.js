@@ -45,7 +45,7 @@ const RESOURCES = {
 "assets/assets/images/success.png": "f80df756b315fbb72670a78e82095c3c",
 "assets/FontManifest.json": "f9cc21e07145e78aea2709522529e120",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "652300f264890ef466956e20e3e1f3c4",
+"assets/NOTICES": "5e79478472c6dcfbcabd81ae2c0b681c",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/flutter_login/assets/images/ecorp.png": "24e80e9441acf073076893cebbe60ac0",
@@ -70,11 +70,17 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9370b88c60e90b088bd8eca534f5069c",
-"/": "9370b88c60e90b088bd8eca534f5069c",
-"main.dart.js": "612f4230447f80805995041dbb3f1753",
+"index.html": "bea4271a4e3b4b5dfee1e50310ee4456",
+"/": "bea4271a4e3b4b5dfee1e50310ee4456",
+"main.dart.js": "75b263979396db5e0e01257c23db2167",
 "manifest.json": "8680e9d796f99fb61aa2331585f0ca40",
-"version.json": "d1701aadeea5e98b1279af62201fe263"
+"service_report.html": "b0be695bcff2e488fb15966ef51ce8a4",
+"version.json": "d1701aadeea5e98b1279af62201fe263",
+"WhatsApp%20Image%202021-12-31%20at%208.57.55%20PM%20(1).jpeg": "2f4857e072d121d80086c608d72a8af8",
+"WhatsApp%20Image%202021-12-31%20at%208.57.55%20PM.jpeg": "92de87e7245722423063305f570b9c7d",
+"WhatsApp%20Image%202021-12-31%20at%208.57.56%20PM.jpeg": "5f25e9da9765b0dcf30781a97dfcc595",
+"WhatsApp%20Image%202021-12-31%20at%208.57.57%20PM%20(1).jpeg": "7440ed2fed87d64af98f3fd35948738d",
+"WhatsApp%20Image%202021-12-31%20at%208.57.57%20PM.jpeg": "df1d99307793ce68ef70d91b6c52f1e6"
 };
 
 // The application shell files that are downloaded before a service worker can
